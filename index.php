@@ -10,6 +10,8 @@ Bienvenidos a todos
     require_once("controladores/alumnos_controlador.php");
 ?>
 <a href='controladores/tipos_usuarios_controlador.php' >Tipos de usuarios</a>
+<a href='controladores/materias_controlador.php' >Materias</a>
+
 
 </body>
 </html>

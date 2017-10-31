@@ -1,7 +1,4 @@
 <?php
-
-
-
     //Llamada al modelo
     require_once("modelo/alumnos_modelo.php");
     $alumnos=new alumnos_modelo();
