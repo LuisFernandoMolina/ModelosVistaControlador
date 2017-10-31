@@ -2,7 +2,7 @@
     class materias_modelo {
 
     private $db;
-    private $materiass;
+    private $materias;
 
     public function __construct(){
         require_once("Conectar.php");

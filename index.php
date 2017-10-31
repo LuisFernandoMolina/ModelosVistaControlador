@@ -11,6 +11,9 @@ Bienvenidos a todos
 ?>
 <a href='controladores/tipos_usuarios_controlador.php' >Tipos de usuarios</a>
 <a href='controladores/materias_controlador.php' >Materias</a>
+<a href='controladores/grupos_controlador.php' >Grupos</a>
+
+
 
 
 </body>
